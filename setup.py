@@ -20,7 +20,7 @@ long_description = (
 setup(
     name='collective.js.iframeresizer',
     version='0.1',
-    description="Integration of iframe-resizer (http://davidjbradshaw.github.io/iframe-resizer/)",
+    description="Plone integration of iframe-resizer jquery plugin",
     long_description=long_description,
     # Get more from http://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
