@@ -1,5 +1,7 @@
-====================
+===========================
 collective.js.iframeresizer
-====================
+===========================
+   
+Plone integration of iframe-resizer (http://davidjbradshaw.github.io/iframe-resizer/)
 
-*Please fill me*
+Using version 2.8.7
