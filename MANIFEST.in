@@ -1,3 +1,10 @@
 graft src/collective
 graft docs/
 include *.cfg *.rst *.in
+exclude bootstrap-buildout.py
+exclude .coveragerc
+exclude .gitattributes
+exclude .installed.cfg
+exclude .mr.developer.cfg
+recursive-include docs *.GPL
+recursive-include docs *.rst
