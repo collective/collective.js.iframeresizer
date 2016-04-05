@@ -6,4 +6,7 @@
  <javascript 
     id="++resource++collective.js.iframeresizer/iframeResizer.contentWindow.min.js"
     cacheable="True" compression="safe" cookable="True"/>
+ <javascript 
+    id="++resource++collective.js.iframeresizer/ie8.polyfils.min.js"
+    cacheable="True" compression="safe" cookable="True" conditionalcomment="lte IE 8"/>
 </object>
