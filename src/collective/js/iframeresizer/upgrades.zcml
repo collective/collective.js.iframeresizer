@@ -1,0 +1,16 @@
+<configure
+    xmlns="http://namespaces.zope.org/genericsetup"
+    i18n_domain="collective.ckeditor">
+
+    <upgradeSteps
+        source="*"
+        destination="1100"
+        profile="collective.js.iframeresizer:default" >
+        <upgradeDepends
+            title="Register new js resource"
+            description="Register the ie8.polyfils.min.js"
+            import_steps="jsregistry"
+        />
+    </upgradeSteps>
+
+</configure>
