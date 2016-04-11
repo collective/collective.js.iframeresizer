@@ -2,8 +2,8 @@ Changelog
 =========
 
 
-0.1.1 (unreleased)
-------------------
+0.2 (unreleased)
+----------------
 
 - Moved to iFrame Resizer 3.5.3.
   [gbastien]

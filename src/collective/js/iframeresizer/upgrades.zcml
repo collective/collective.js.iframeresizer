@@ -4,7 +4,7 @@
 
     <upgradeSteps
         source="*"
-        destination="1100"
+        destination="2000"
         profile="collective.js.iframeresizer:default" >
         <upgradeDepends
             title="Register new js resource"
