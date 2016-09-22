@@ -5,7 +5,8 @@ Changelog
 0.3 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Cleanup.
+  [gbastien]
 
 
 0.2 (2016-04-11)
