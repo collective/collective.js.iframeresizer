@@ -7,6 +7,8 @@ Changelog
 
 - Cleanup.
   [gbastien]
+- Moved to iFrame Resizer 3.5.12.
+  [gbastien]
 
 
 0.2 (2016-04-11)
