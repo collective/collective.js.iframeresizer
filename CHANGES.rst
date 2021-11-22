@@ -5,7 +5,8 @@ Changelog
 0.4 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Moved to iFrame Resizer 4.3.2.
+  [gbastien]
 
 
 0.3 (2017-06-09)
