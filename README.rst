@@ -4,4 +4,4 @@ collective.js.iframeresizer
    
 Plone integration of iframe-resizer (http://davidjbradshaw.github.io/iframe-resizer/)
 
-Using version 3.5.12 (2017-03-29)
+Using version 4.3.2 (2021-11-26)
