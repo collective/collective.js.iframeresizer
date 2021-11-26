@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-0.4 (unreleased)
+0.4 (2021-11-26)
 ----------------
 
 - Moved to iFrame Resizer 4.3.2.
