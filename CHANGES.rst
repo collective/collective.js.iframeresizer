@@ -5,7 +5,8 @@ Changelog
 0.5 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Get rid of `includeDependencies` for Plone 6 compatibility
+  [laulaz]
 
 
 0.4 (2021-11-26)
